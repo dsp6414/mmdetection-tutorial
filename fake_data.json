@@ -1,0 +1,1 @@
+{"images": [{"id": 0, "width": 640, "height": 640, "file_name": "fake_name.jpg"}], "annotations": [{"id": 1, "image_id": 0, "category_id": 0, "area": 400, "bbox": [50, 60, 20, 20], "iscrowd": 0}, {"id": 1, "image_id": 0, "category_id": 0, "area": 900, "bbox": [100, 120, 30, 30], "iscrowd": 0}], "categories": [{"id": 0, "name": "car", "supercategory": "car"}]}
