@@ -1,5 +1,9 @@
 # mmdetection-tutorial
 
+version:
+mmdet 2.25.0
+mmcls 0.23.0
+
 Video Lectures:
 
 1.mmdetection安装
