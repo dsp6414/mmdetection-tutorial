@@ -2,5 +2,6 @@
 
 checkpoints files are placing here.
 
-unzip checkpoints.tar.xz to this directory
+downloading checkpoints files from mmdet website.
+
 
