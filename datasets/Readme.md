@@ -1,6 +1,6 @@
 Datasets are placing here.
 
-unzip dataset.tar.xz  to the 'datasets' directory
+unzip dataset.tar.xz  to 'datasets' directory
 
 downloading link: 
 
